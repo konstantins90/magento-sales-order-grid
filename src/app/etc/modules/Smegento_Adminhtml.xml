@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Smegento_Adminhtml>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Smegento_Adminhtml>
+    </modules>
+</config>
